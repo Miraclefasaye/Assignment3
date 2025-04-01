@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Assignment3Solution (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "Assignment3Solution (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}

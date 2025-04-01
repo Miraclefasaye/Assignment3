@@ -1,7 +1,32 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\SpecialTopics\\Assignment3\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SpecialTopics\\Assignment3\\TicketHubApi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TicketHubApi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SpecialTopics\\Assignment3\\TicketHubApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TicketHubApi\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SpecialTopics\\Assignment3\\TicketHubApi\\.github\\workflows\\deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TicketHubApi\\.github\\workflows\\deploy.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SpecialTopics\\Assignment3\\TicketHubApi\\Services\\IQueueService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TicketHubApi\\Services\\IQueueService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SpecialTopics\\Assignment3\\TicketHubApi\\Controllers\\TicketsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TicketHubApi\\Controllers\\TicketsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\SpecialTopics\\Assignment3\\TicketHubApi\\Models\\TicketPurchase.cs||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TicketHubApi\\Models\\TicketPurchase.cs||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 205,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -21,11 +46,89 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\SpecialTopics\\Assignment3\\TicketHubApi\\.gitignore",
+              "RelativeDocumentMoniker": "TicketHubApi\\.gitignore",
+              "ToolTip": "D:\\SpecialTopics\\Assignment3\\TicketHubApi\\.gitignore",
+              "RelativeToolTip": "TicketHubApi\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-03-31T02:13:27.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "deploy.yml",
+              "DocumentMoniker": "D:\\SpecialTopics\\Assignment3\\TicketHubApi\\.github\\workflows\\deploy.yml",
+              "RelativeDocumentMoniker": "TicketHubApi\\.github\\workflows\\deploy.yml",
+              "ToolTip": "D:\\SpecialTopics\\Assignment3\\TicketHubApi\\.github\\workflows\\deploy.yml",
+              "RelativeToolTip": "TicketHubApi\\.github\\workflows\\deploy.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-03-31T02:00:22.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SpecialTopics\\Assignment3\\TicketHubApi\\Program.cs",
+              "RelativeDocumentMoniker": "TicketHubApi\\Program.cs",
+              "ToolTip": "D:\\SpecialTopics\\Assignment3\\TicketHubApi\\Program.cs",
+              "RelativeToolTip": "TicketHubApi\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAADMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:58:43.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IQueueService.cs",
+              "DocumentMoniker": "D:\\SpecialTopics\\Assignment3\\TicketHubApi\\Services\\IQueueService.cs",
+              "RelativeDocumentMoniker": "TicketHubApi\\Services\\IQueueService.cs",
+              "ToolTip": "D:\\SpecialTopics\\Assignment3\\TicketHubApi\\Services\\IQueueService.cs",
+              "RelativeToolTip": "TicketHubApi\\Services\\IQueueService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:58:02.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "D:\\SpecialTopics\\Assignment3\\TicketHubApi\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "TicketHubApi\\Controllers\\TicketsController.cs",
+              "ToolTip": "D:\\SpecialTopics\\Assignment3\\TicketHubApi\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "TicketHubApi\\Controllers\\TicketsController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:57:05.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TicketPurchase.cs",
+              "DocumentMoniker": "D:\\SpecialTopics\\Assignment3\\TicketHubApi\\Models\\TicketPurchase.cs",
+              "RelativeDocumentMoniker": "TicketHubApi\\Models\\TicketPurchase.cs",
+              "ToolTip": "D:\\SpecialTopics\\Assignment3\\TicketHubApi\\Models\\TicketPurchase.cs",
+              "RelativeToolTip": "TicketHubApi\\Models\\TicketPurchase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T01:55:28.002Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
             },
             {
               "$type": "Bookmark",
