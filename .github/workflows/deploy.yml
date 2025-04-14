@@ -1,0 +1,35 @@
+name: Deploy to Azure Web App
+
+on:
+  push:
+    branches:
+      - main  # change to your branch name if needed
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v3
+
+    - name: Setup .NET
+      uses: actions/setup-dotnet@v3
+      with:
+        dotnet-version: '9.0.x'  # .NET 9 based on your project
+
+    - name: Restore dependencies
+      run: dotnet restore Assignment3Solution/TicketHubApi/TicketHubApi.csproj
+
+    - name: Build app
+      run: dotnet build Assignment3Solution/TicketHubApi/TicketHubApi.csproj --configuration Release --no-restore
+
+    - name: Publish app
+      run: dotnet publish Assignment3Solution/TicketHubApi/TicketHubApi.csproj --configuration Release --output ./publish --no-build
+
+    - name: Deploy to Azure Web App
+      uses: azure/webapps-deploy@v2
+      with:
+        app-name: tickethub-api9021
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE }}
+        package: ./publish

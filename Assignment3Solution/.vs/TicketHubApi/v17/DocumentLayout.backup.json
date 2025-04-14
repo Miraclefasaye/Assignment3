@@ -1,0 +1,159 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\SpecialTopics\\Assignment3\\Assignment3Solution\\TicketHubApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECD7350-C05A-2076-BEE6-BDF0ABB47F87}|TicketHubApi.csproj|d:\\specialtopics\\assignment3\\assignment3solution\\tickethubapi\\tickethubapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4ECD7350-C05A-2076-BEE6-BDF0ABB47F87}|TicketHubApi.csproj|solutionrelative:tickethubapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECD7350-C05A-2076-BEE6-BDF0ABB47F87}|TicketHubApi.csproj|d:\\specialtopics\\assignment3\\assignment3solution\\tickethubapi\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{4ECD7350-C05A-2076-BEE6-BDF0ABB47F87}|TicketHubApi.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECD7350-C05A-2076-BEE6-BDF0ABB47F87}|TicketHubApi.csproj|d:\\specialtopics\\assignment3\\assignment3solution\\tickethubapi\\controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECD7350-C05A-2076-BEE6-BDF0ABB47F87}|TicketHubApi.csproj|solutionrelative:controllers\\ticketscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECD7350-C05A-2076-BEE6-BDF0ABB47F87}|TicketHubApi.csproj|d:\\specialtopics\\assignment3\\assignment3solution\\tickethubapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECD7350-C05A-2076-BEE6-BDF0ABB47F87}|TicketHubApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4ECD7350-C05A-2076-BEE6-BDF0ABB47F87}|TicketHubApi.csproj|d:\\specialtopics\\assignment3\\assignment3solution\\tickethubapi\\models\\ticketpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4ECD7350-C05A-2076-BEE6-BDF0ABB47F87}|TicketHubApi.csproj|solutionrelative:models\\ticketpurchase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Miracle\\AppData\\Roaming\\Microsoft\\UserSecrets\\2b18d484-aace-49d8-aed6-bb629907cf0b\\secrets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 33,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:4:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TicketHubApi.csproj",
+              "DocumentMoniker": "D:\\SpecialTopics\\Assignment3\\Assignment3Solution\\TicketHubApi\\TicketHubApi.csproj",
+              "RelativeDocumentMoniker": "TicketHubApi.csproj",
+              "ToolTip": "D:\\SpecialTopics\\Assignment3\\Assignment3Solution\\TicketHubApi\\TicketHubApi.csproj",
+              "RelativeToolTip": "TicketHubApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-14T18:48:41.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\SpecialTopics\\Assignment3\\Assignment3Solution\\TicketHubApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\SpecialTopics\\Assignment3\\Assignment3Solution\\TicketHubApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T00:58:58.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TicketPurchase.cs",
+              "DocumentMoniker": "D:\\SpecialTopics\\Assignment3\\Assignment3Solution\\TicketHubApi\\Models\\TicketPurchase.cs",
+              "RelativeDocumentMoniker": "Models\\TicketPurchase.cs",
+              "ToolTip": "D:\\SpecialTopics\\Assignment3\\Assignment3Solution\\TicketHubApi\\Models\\TicketPurchase.cs",
+              "RelativeToolTip": "Models\\TicketPurchase.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAwCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T00:51:09.404Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TicketsController.cs",
+              "DocumentMoniker": "D:\\SpecialTopics\\Assignment3\\Assignment3Solution\\TicketHubApi\\Controllers\\TicketsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TicketsController.cs",
+              "ToolTip": "D:\\SpecialTopics\\Assignment3\\Assignment3Solution\\TicketHubApi\\Controllers\\TicketsController.cs",
+              "RelativeToolTip": "Controllers\\TicketsController.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAswEwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T00:50:55.829Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "secrets.json",
+              "DocumentMoniker": "C:\\Users\\Miracle\\AppData\\Roaming\\Microsoft\\UserSecrets\\2b18d484-aace-49d8-aed6-bb629907cf0b\\secrets.json",
+              "ToolTip": "C:\\Users\\Miracle\\AppData\\Roaming\\Microsoft\\UserSecrets\\2b18d484-aace-49d8-aed6-bb629907cf0b\\secrets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-01T00:43:17.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\SpecialTopics\\Assignment3\\Assignment3Solution\\TicketHubApi\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "D:\\SpecialTopics\\Assignment3\\Assignment3Solution\\TicketHubApi\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-04-01T00:59:15.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
