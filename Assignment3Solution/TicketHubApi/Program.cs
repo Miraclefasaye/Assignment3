@@ -1,4 +1,6 @@
+﻿using Microsoft.EntityFrameworkCore;
 using Microsoft.OpenApi.Models;
+using TicketHubApi.Data; // <-- Replace with your actual DbContext namespace
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -10,15 +12,19 @@ builder.Services.AddSwaggerGen(c =>
     c.SwaggerDoc("v1", new OpenApiInfo { Title = "Ticket Hub API", Version = "v1" });
 });
 
-// Load secrets for development
+// Load secret config (optional for dev)
 if (builder.Environment.IsDevelopment())
 {
     builder.Configuration.AddJsonFile("secret.json", optional: true);
 }
 
+// ✅ Add database context
+builder.Services.AddDbContext<TicketDbContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
 var app = builder.Build();
 
-// Configure the HTTP request pipeline
+// Configure middleware
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
@@ -31,5 +37,4 @@ if (app.Environment.IsDevelopment())
 app.UseHttpsRedirection();
 app.UseAuthorization();
 app.MapControllers();
-
 app.Run();
